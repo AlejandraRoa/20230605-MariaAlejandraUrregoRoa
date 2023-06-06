@@ -1,0 +1,5 @@
+3 Partes internas de la computadora:
+
+1. Caché, parte de la memoria principal
+2. Procesador
+3. ROM
