@@ -1,0 +1,18 @@
+Comandos utilizados en el exámen:
+
+1. Crear Directorios mkdir
+2. Crear elements touch
+3. renombrar archivos mv "nombre de archiv actual" "nombre del archivo nuevo"
+4. Cambiar a carpeta de Trabajo. cd "Ruta de la carpeta a la cual desea cambiar"
+5. git init 
+6. git add
+7. git commit
+8. git branch "nombre de la nueva rama"
+9. git push -M origin main
+10. git push origin "nombre de la rama"
+11. git checkout "nombre de la rama"
+12. git status
+13. git clone
+14. git pull
+15. ls -r 
+16. nano "nombre del archivo"
