@@ -1,0 +1,7 @@
+5 Comandos aprendidos en clase:
+
+1. Crear Directorios mkdir
+2. Crear elements touch
+3. Eliminar archivos rm "nombre de archivo"
+4. Eliminar carpetas no vacias rm -r "nombre de la carpeta"
+5. Cambiar a carpeta de Trabajo. cd "Ruta de la carpeta a la cual desea cambiar"
